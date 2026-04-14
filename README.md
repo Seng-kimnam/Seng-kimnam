@@ -14,3 +14,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://komarev.com/ghpvc/?username=Seng-kimnam&style=for-the-badge&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seng-kimnam)
