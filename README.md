@@ -1,4 +1,4 @@
-# Hi, All Beloved Developer 🫶
+# Hi, how can I help you
 
 
 # 💻 Tech Stack:
